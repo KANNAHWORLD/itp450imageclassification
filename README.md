@@ -25,18 +25,21 @@ uses DDP through the Lightning Trainer API.
 <h2> train.job </h2>
 Empty so far, I presume I would make a script to run a Lightning_DDP job
 
-If you wanna learn, quick links to docs
-<a href="https://lightning.ai/docs/pytorch/1.6.2/common/trainer.html"> Lighting Trainer API </a>
-<a href="https://lightning.ai/docs/pytorch/1.6.2/common/lightning_module.html"> Lighting Module API </a>
-<a href="https://lightning.ai/docs/pytorch/stable/advanced/model_parallel/tp.html#"> Lighting Tensor Parallelism </a>
-<a href="https://lightning.ai/docs/pytorch/1.6.2/accelerators/gpu.html"> Multi GPU Training </a>
+<br />
+<br />
 
-Some more Random stuff as reference
-<a href="https://pytorch.org/docs/stable/distributed.tensor.parallel.html"> Parallelization with Vanilla Torch </a>
-<a href="https://pytorch.org/tutorials/intermediate/TP_tutorial.html"> Large Scale Transformer training with vanilla torch </a>
-<a href="https://pytorch.org/tutorials/intermediate/dist_tuto.html"> Writing Distributed models with torch </a>
-<a href="https://pytorch.org/tutorials/intermediate/ddp_tutorial.html"> Torch tutorials </a>
-<a href="https://pytorch.org/tutorials/intermediate/dist_tuto.html"> Writing Distributed models with torch </a>
+If you wanna learn, quick links to docs <br />
+<a href="https://lightning.ai/docs/pytorch/1.6.2/common/trainer.html"> Lighting Trainer API </a> <br />
+<a href="https://lightning.ai/docs/pytorch/1.6.2/common/lightning_module.html"> Lighting Module API </a> <br />
+<a href="https://lightning.ai/docs/pytorch/stable/advanced/model_parallel/tp.html#"> Lighting Tensor Parallelism </a> <br />
+<a href="https://lightning.ai/docs/pytorch/1.6.2/accelerators/gpu.html"> Multi GPU Training </a> <br />
+<br /> 
+Some more Random stuff as reference <br />
+<a href="https://pytorch.org/docs/stable/distributed.tensor.parallel.html"> Parallelization with Vanilla Torch </a> <br />
+<a href="https://pytorch.org/tutorials/intermediate/TP_tutorial.html"> Large Scale Transformer training with vanilla torch </a> <br />
+<a href="https://pytorch.org/tutorials/intermediate/dist_tuto.html"> Writing Distributed models with torch </a> <br />
+<a href="https://pytorch.org/tutorials/intermediate/ddp_tutorial.html"> Torch tutorials </a> <br />
+<a href="https://pytorch.org/tutorials/intermediate/dist_tuto.html"> Writing Distributed models with torch </a> <br />
 <a href="https://lightning.ai/lightning-ai/studios/tensor-parallelism-supercharging-large-model-training-with-pytorch-lightning#llm-example"> 
     Tensor Parallelism with Lightning AI
 </a>
